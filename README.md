@@ -2,7 +2,7 @@
 
 <h2>ToonTalker: Cross-Domain Face Reenactment </h2> 
 
- <a href='https://arxiv.org/abs/2308.12866'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/yuanygong/ToonTalker'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+ <a href='https://arxiv.org/abs/2308.12866'><img src='https://img.shields.io/badge/ArXiv-2305.18247-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://yuanygong.github.io/ToonTalker'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
   
 <!-- ## <b><font color="red"> TaleCrafter </font>: Interactive Story Visualization with Multiple Characters</b> -->
 
